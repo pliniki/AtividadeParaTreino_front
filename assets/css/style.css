@@ -1,0 +1,58 @@
+/*Pagina Index*/
+.centralizar {
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+/*Menu*/
+#menu ul li {
+  display: inline;
+  padding: 1.25rem;
+  align-items: flex-end;
+}
+#menu ul li a {
+  text-decoration: none;
+  color: rgb(48, 46, 46);
+  font-size: 1.25rem;
+}
+#menu ul li a:hover {
+  text-decoration: none;
+  color: rgba(245, 19, 68, 0.952);
+}
+
+/*Quebra de linha*/
+
+hr {
+  width: 100%;
+  border-width: 0;
+  border-top-width: 0.0625rem;
+}
+
+/*Textos Index*/
+.justify {
+  text-align: justify;
+}
+.p-30 {
+  padding: 1.875rem;
+}
+/*foto Index*/
+.br-50 {
+  border-radius: 50%;
+}
+
+/*Footer*/
+.tm-social {
+  padding: 0.5rem;
+}
+.mb-50 {
+  margin-bottom: 3.125rem;
+}
+/*=================================PAGE CONTATO=======================================*/
+.ml-50 {
+  margin-left: 3.125rem;
+}
