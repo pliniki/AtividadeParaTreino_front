@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 /*Pagina Index*/
+* {
+  background-color: rgb(236, 236, 236);
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
 .centralizar {
   text-align: center;
 }
@@ -9,24 +16,36 @@
   align-items: center;
 }
 
-/*Menu*/
+/*====================================Inicio Menu=============================================*/
 #menu ul li {
   display: inline;
   padding: 1.25rem;
-  align-items: flex-end;
+  font-size: 1.2rem;
+  font-weight: 1000;
 }
 #menu ul li a {
-  text-decoration: none;
   color: rgb(48, 46, 46);
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 #menu ul li a:hover {
   text-decoration: none;
   color: rgba(245, 19, 68, 0.952);
 }
 
-/*Quebra de linha*/
+/*====================================Fim Menu=============================================*/
+/*Titulos H1*/
+#titulo {
+  color: rgb(49, 48, 48);
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 2rem;
+}
+#titulo:hover {
+  color: rgba(245, 19, 68, 0.952);
+}
 
+/*Quebra de linha*/
 hr {
   width: 100%;
   border-width: 0;
@@ -42,10 +61,10 @@ hr {
 }
 /*foto Index*/
 .br-50 {
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
-/*Footer*/
+/*====================================Footer=========================================*/
 .tm-social {
   padding: 0.5rem;
 }
@@ -55,4 +74,26 @@ hr {
 /*=================================PAGE CONTATO=======================================*/
 .ml-50 {
   margin-left: 3.125rem;
+}
+/*Formulario*/
+#formulario label {
+  left: 19px;
+  margin-right: 5px;
+}
+#nome {
+  background-color: #ffffff;
+
+  left: 95px;
+  top: 23px;
+  width: 225px;
+}
+#email {
+  background-color: #ffffff;
+
+  left: 95px;
+  margin-top: 2px;
+  width: 225px;
+}
+#assunto {
+  background-color: #ffffff;
 }

@@ -24,23 +24,31 @@
 
     <div class="container ml-50">
       <div>
-        <form>
+        <form id="formulario">
+          <!--Campo de Nome do forms-->
           <label for="nome">Nome</label> <br />
-          <br />
-          <input type="text" id="nome" />
-          <br />
-          <br />
+          <input type="text" id="nome" onkeyup="validarNome()" />
+          <!--Campo para chamar a variavel txtNome no JS-->
+          <div id="txtNome"></div>
+          <!--Campo de email do forms-->
           <label for="email">Email</label> <br />
-          <br />
-          <input type="email" id="email" />
-          <br />
-          <br />
+          <input type="email" id="email" onkeyup="validarEmail()" />
+          <!--Campo para chamar a variavel txtNome no JS-->
+          <div id="txtEmail"></div>
+          <!--Campo de assunto do forms-->
           <label for="assunto">Assunto</label> <br />
+          <textarea
+            name="assunto"
+            id="assunto"
+            cols="30"
+            onkeyup="validarAssunto()"
+            rows="10"
+          ></textarea>
+          <!--Campo para chamar a variavel txtNome no JS-->
+          <div id="txtAssunto"></div>
           <br />
-          <textarea name="assunto" id="assunto" cols="30" rows="10"></textarea>
-          <br />
-          <br />
-          <button>Enviar</button>
+          <!--Botao de enviar forms-->
+          <button onclick="enviar()">Enviar</button>
         </form>
       </div>
       <div class="ml-50">
@@ -53,6 +61,9 @@
           style="border: 0"
           allowfullscreen=""
           loading="lazy"
+          id="mapa"
+          onmousemove="mapaZoom()"
+          onmouseout="mapaNormal()"
         ></iframe>
       </div>
     </div>
@@ -94,5 +105,7 @@
         </a>
       </div>
     </footer>
+
+    <script src="/assets/js/script_online.js"></script>
   </body>
 </html>
