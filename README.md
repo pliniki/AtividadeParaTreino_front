@@ -42,4 +42,3 @@ Paulo Carvalho [Linkedin](https://www.linkedin.com/in/paulo-carvalho/) <br>
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
