@@ -8,7 +8,7 @@
 </div>
 ## 🚀 Começando
 
-Os códigos estão separados por branchs, para navegar por cada uma delas, selecione a linguagem que deseja e faca o clone do repositório em sua máquina.
+Os códigos estão separados por branchs, para navegar por cada uma delas, selecione a linguagem que deseja e faça o clone do repositório em sua máquina.
 
 <p align="center">
   <img alt="Logo" src="https://github.com/pliniki/blog_pessoal/blob/js/assets/img/redme_1.png">
