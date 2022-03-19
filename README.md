@@ -6,7 +6,8 @@
 <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </div>
-## 🚀 Começando
+
+<h3> 🚀 Começando</p>
 
 Os códigos estão separados por branchs, para navegar por cada uma delas, selecione a linguagem que deseja e faça o clone do repositório em sua máquina.
 
