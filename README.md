@@ -2,15 +2,20 @@
 
 Exercício básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.
 
+<img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Paulo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+
+
 ## 🚀 Começando
 
-Os códigos estão separados por branchs, para navegar por cada uma delas, selecione a linguagem que deseja e faca o clone do repositório em sua máquina.```
+Os códigos estão separados por branchs, para navegar por cada uma delas, selecione a linguagem que deseja e faca o clone do repositório em sua máquina.
 
 <p align="center">
-  <img alt="Logo" src="">
+  <img alt="Logo" src="https://github.com/pliniki/blog_pessoal/blob/js/assets/img/redme_1.png">
 </p>
 <p align="center">
-  <img alt="Logo" src="">
+  <img alt="Logo" src="https://github.com/pliniki/blog_pessoal/blob/js/assets/img/redme_2.png">
 </p>
 
 ## 📦 Desenvolvimento
