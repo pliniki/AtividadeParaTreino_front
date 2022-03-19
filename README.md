@@ -4,7 +4,8 @@
 <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </div>
-Exercício básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.
+
+<h3 align="center">Exercício básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.</h3>
 
 ## 🚀 Começando
 
