@@ -1,5 +1,5 @@
 # Exercitando HTM, CSS e Java Script
-🛠️ <h3>Exercício básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.</h3>
+<h3> 🛠️  Exercício básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.</h3>
 
 <div align="center" style="display: inline_block">
 <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
