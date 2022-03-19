@@ -1,6 +1,6 @@
 # Exercitando HTM, CSS e Java Script
 
-Exercicio básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.
+Exercício básico para exercitar os conceitos basicos de HTML5, CSS3 e JS.
 
 ## 🚀 Começando
 
